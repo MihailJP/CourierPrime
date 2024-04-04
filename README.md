@@ -1,3 +1,7 @@
+# Unuaranga Kuriero
+
+Unuaranga Kuriero is a mod of Courier Prime font.
+
 # Courier Prime
 
 Courier Prime is a monospaced font designed specifically for screenplays. It was designed by Alan Dague-Greene for John August and released by Quote-Unquote Apps under the SIL Open Font License (OFL).
