@@ -1,5 +1,7 @@
 # Unuaranga Kuriero
 
+_Ĉi tiu estas Kuriero, nur pli bona_
+
 Unuaranga Kuriero is a mod of Courier Prime font.
 
 # Courier Prime
