@@ -552,6 +552,13 @@
 		<string>dieresis.cyr.case</string>
 		<string>grave.cyr</string>
 		<string>grave.cyr.case</string>
+		<string>becyrillic.mkd</string>
+		<string>gecyrillic.mkd</string>
+		<string>gjecyrillic.mkd</string>
+		<string>decyrillic.mkd</string>
+		<string>pecyrillic.mkd</string>
+		<string>tecyrillic.mkd</string>
+		<string>shacyrillic.mkd</string>
 	</array>
 </dict>
 </plist>

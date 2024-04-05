@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gjecyrillic.mkd" format="1">
+  <advance width="1228"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="gecyrillic.mkd"/>
+    <component base="acute.cyr.case"/>
+  </outline>
+</glyph>

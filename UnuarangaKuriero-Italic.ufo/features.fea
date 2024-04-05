@@ -1,6 +1,8 @@
 # Prefix: Languagesystems
 # automatic
 languagesystem DFLT dflt;
+languagesystem cyrl MKD;
+languagesystem cyrl SRB;
 languagesystem grek dflt;
 languagesystem latn dflt;
 languagesystem latn ROM;
@@ -35,6 +37,24 @@ sub tcedilla by tcommaaccent;
 language CAT;
 sub  l' periodcentered' l by ldot;
 sub  L' periodcentered' L by Ldot;
+
+script cyrl;
+language MKD;
+sub becyrillic by becyrillic.mkd;
+sub gecyrillic by gecyrillic.mkd;
+sub gjecyrillic by gjecyrillic.mkd;
+sub decyrillic by decyrillic.mkd;
+sub pecyrillic by pecyrillic.mkd;
+sub tecyrillic by tecyrillic.mkd;
+sub shacyrillic by shacyrillic.mkd;
+language SRB;
+sub becyrillic by becyrillic.mkd;
+sub gecyrillic by gecyrillic.mkd;
+sub gjecyrillic by gjecyrillic.mkd;
+sub decyrillic by decyrillic.mkd;
+sub pecyrillic by pecyrillic.mkd;
+sub tecyrillic by tecyrillic.mkd;
+sub shacyrillic by shacyrillic.mkd;
 } locl;
 
 feature sups {
@@ -74,5 +94,10 @@ sub ogonek by ogonek.case;
 sub ring by ring.case;
 sub tilde by tilde.case;
 sub commaaccent by commaaccent.case;
+
+sub acute.cyr by acute.cyr.case;
+sub breve.cyr by breve.cyr.case;
+sub dieresis.cyr by dieresis.cyr.case;
+sub grave.cyr by grave.cyr.case;
 } case;
 

@@ -1072,5 +1072,19 @@
 	<string>grave.cyr.glif</string>
 	<key>grave.cyr.case</key>
 	<string>grave.cyr.case.glif</string>
+	<key>becyrillic.mkd</key>
+	<string>becyrillic.mkd.glif</string>
+	<key>gecyrillic.mkd</key>
+	<string>gecyrillic.mkd.glif</string>
+	<key>gjecyrillic.mkd</key>
+	<string>gjecyrillic.mkd.glif</string>
+	<key>decyrillic.mkd</key>
+	<string>decyrillic.mkd.glif</string>
+	<key>pecyrillic.mkd</key>
+	<string>pecyrillic.mkd.glif</string>
+	<key>tecyrillic.mkd</key>
+	<string>tecyrillic.mkd.glif</string>
+	<key>shacyrillic.mkd</key>
+	<string>shacyrillic.mkd.glif</string>
 </dict>
 </plist>
