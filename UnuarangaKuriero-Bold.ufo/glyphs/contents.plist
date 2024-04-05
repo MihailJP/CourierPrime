@@ -1056,5 +1056,21 @@
 	<string>numero.glif</string>
 	<key>divisionslash</key>
 	<string>divisionslash.glif</string>
+	<key>acute.cyr</key>
+	<string>acute.cyr.glif</string>
+	<key>acute.cyr.case</key>
+	<string>acute.cyr.case.glif</string>
+	<key>breve.cyr</key>
+	<string>breve.cyr.glif</string>
+	<key>breve.cyr.case</key>
+	<string>breve.cyr.case.glif</string>
+	<key>dieresis.cyr</key>
+	<string>dieresis.cyr.glif</string>
+	<key>dieresis.cyr.case</key>
+	<string>dieresis.cyr.case.glif</string>
+	<key>grave.cyr</key>
+	<string>grave.cyr.glif</string>
+	<key>grave.cyr.case</key>
+	<string>grave.cyr.case.glif</string>
 </dict>
 </plist>

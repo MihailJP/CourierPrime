@@ -544,6 +544,14 @@
 		<string>obarredcyrillic</string>
 		<string>numero</string>
 		<string>divisionslash</string>
+		<string>acute.cyr</string>
+		<string>acute.cyr.case</string>
+		<string>breve.cyr</string>
+		<string>breve.cyr.case</string>
+		<string>dieresis.cyr</string>
+		<string>dieresis.cyr.case</string>
+		<string>grave.cyr</string>
+		<string>grave.cyr.case</string>
 	</array>
 </dict>
 </plist>
