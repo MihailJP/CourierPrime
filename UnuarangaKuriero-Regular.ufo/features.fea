@@ -1,6 +1,7 @@
 # Prefix: Languagesystems
 # automatic
 languagesystem DFLT dflt;
+languagesystem cyrl dflt;
 languagesystem cyrl MKD;
 languagesystem cyrl SRB;
 languagesystem grek dflt;
