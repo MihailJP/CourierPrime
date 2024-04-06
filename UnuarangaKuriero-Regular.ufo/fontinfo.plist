@@ -136,6 +136,8 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<string>Unuaranga Kuriero</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
+	<key>openTypeNameVersion</key>
+	<string>0.1</string>
 	<key>openTypeOS2VendorID</key>
 	<string>QUQA</string>
 	<key>openTypeOS2WeightClass</key>
