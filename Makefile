@@ -12,12 +12,12 @@ PACKAGES=UnuarangaKuriero.zip
 .ufo.ttf:
 	fontmake $< -o ttf --output-path $@
 
-UnuarangaKuriero.zip: ${TARGETS} ${DOCUMENTS}
-	mkdir $* && cp $^ $* && zip -9 -m -r $@ $*
-
 .PHONY: all dist clean
 
 all: ${TARGETS}
+
+UnuarangaKuriero.zip: ${TARGETS} ${DOCUMENTS}
+	mkdir $* && cp $^ $* && zip -9 -m -r $@ $*
 
 dist: ${PACKAGES}
 
