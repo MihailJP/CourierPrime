@@ -844,6 +844,8 @@
 	<string>G_hestrokecyrillic.glif</string>
 	<key>Decyrillic</key>
 	<string>D_ecyrillic.glif</string>
+	<key>Decyrillic.bgr</key>
+	<string>D_ecyrillic.bgr.glif</string>
 	<key>Gjecyrillic</key>
 	<string>G_jecyrillic.glif</string>
 	<key>Djecyrillic</key>
@@ -856,6 +858,8 @@
 	<string>E_cyrillic.glif</string>
 	<key>Zhecyrillic</key>
 	<string>Z_hecyrillic.glif</string>
+	<key>Zhecyrillic.bgr</key>
+	<string>Z_hecyrillic.bgr.glif</string>
 	<key>Zecyrillic</key>
 	<string>Z_ecyrillic.glif</string>
 	<key>Dzecyrillic</key>
@@ -874,10 +878,14 @@
 	<string>J_ecyrillic.glif</string>
 	<key>Kacyrillic</key>
 	<string>K_acyrillic.glif</string>
+	<key>Kacyrillic.bgr</key>
+	<string>K_acyrillic.bgr.glif</string>
 	<key>Kadescendercyrillic</key>
 	<string>K_adescendercyrillic.glif</string>
 	<key>Elcyrillic</key>
 	<string>E_lcyrillic.glif</string>
+	<key>Elcyrillic.bgr</key>
+	<string>E_lcyrillic.bgr.glif</string>
 	<key>Ljecyrillic</key>
 	<string>L_jecyrillic.glif</string>
 	<key>Emcyrillic</key>
@@ -914,6 +922,8 @@
 	<string>U_straightstrokecyrillic.glif</string>
 	<key>Efcyrillic</key>
 	<string>E_fcyrillic.glif</string>
+	<key>Efcyrillic.bgr</key>
+	<string>E_fcyrillic.bgr.glif</string>
 	<key>Khacyrillic</key>
 	<string>K_hacyrillic.glif</string>
 	<key>Shhacyrillic</key>
@@ -950,8 +960,12 @@
 	<string>becyrillic.mkd.glif</string>
 	<key>vecyrillic</key>
 	<string>vecyrillic.glif</string>
+	<key>vecyrillic.bgr</key>
+	<string>vecyrillic.bgr.glif</string>
 	<key>gecyrillic</key>
 	<string>gecyrillic.glif</string>
+	<key>gecyrillic.bgr</key>
+	<string>gecyrillic.bgr.glif</string>
 	<key>gecyrillic.mkd</key>
 	<string>gecyrillic.mkd.glif</string>
 	<key>gheupturncyrillic</key>
@@ -960,6 +974,8 @@
 	<string>ghestrokecyrillic.glif</string>
 	<key>decyrillic</key>
 	<string>decyrillic.glif</string>
+	<key>decyrillic.bgr</key>
+	<string>decyrillic.bgr.glif</string>
 	<key>decyrillic.mkd</key>
 	<string>decyrillic.mkd.glif</string>
 	<key>gjecyrillic</key>
@@ -976,34 +992,50 @@
 	<string>ecyrillic.glif</string>
 	<key>zhecyrillic</key>
 	<string>zhecyrillic.glif</string>
+	<key>zhecyrillic.bgr</key>
+	<string>zhecyrillic.bgr.glif</string>
 	<key>zecyrillic</key>
 	<string>zecyrillic.glif</string>
+	<key>zecyrillic.bgr</key>
+	<string>zecyrillic.bgr.glif</string>
 	<key>dzecyrillic</key>
 	<string>dzecyrillic.glif</string>
 	<key>iicyrillic</key>
 	<string>iicyrillic.glif</string>
+	<key>iicyrillic.bgr</key>
+	<string>iicyrillic.bgr.glif</string>
 	<key>icyrillic</key>
 	<string>icyrillic.glif</string>
 	<key>yicyrillic</key>
 	<string>yicyrillic.glif</string>
 	<key>iishortcyrillic</key>
 	<string>iishortcyrillic.glif</string>
+	<key>iishortcyrillic.bgr</key>
+	<string>iishortcyrillic.bgr.glif</string>
 	<key>uni045D</key>
 	<string>uni045D_.glif</string>
+	<key>uni045D.bgr</key>
+	<string>uni045D_.bgr.glif</string>
 	<key>jecyrillic</key>
 	<string>jecyrillic.glif</string>
 	<key>kacyrillic</key>
 	<string>kacyrillic.glif</string>
+	<key>kacyrillic.bgr</key>
+	<string>kacyrillic.bgr.glif</string>
 	<key>kadescendercyrillic</key>
 	<string>kadescendercyrillic.glif</string>
 	<key>elcyrillic</key>
 	<string>elcyrillic.glif</string>
+	<key>elcyrillic.bgr</key>
+	<string>elcyrillic.bgr.glif</string>
 	<key>ljecyrillic</key>
 	<string>ljecyrillic.glif</string>
 	<key>emcyrillic</key>
 	<string>emcyrillic.glif</string>
 	<key>encyrillic</key>
 	<string>encyrillic.glif</string>
+	<key>encyrillic.bgr</key>
+	<string>encyrillic.bgr.glif</string>
 	<key>endescendercyrillic</key>
 	<string>endescendercyrillic.glif</string>
 	<key>njecyrillic</key>
@@ -1014,6 +1046,8 @@
 	<string>obarredcyrillic.glif</string>
 	<key>pecyrillic</key>
 	<string>pecyrillic.glif</string>
+	<key>pecyrillic.bgr</key>
+	<string>pecyrillic.bgr.glif</string>
 	<key>pecyrillic.mkd</key>
 	<string>pecyrillic.mkd.glif</string>
 	<key>ercyrillic</key>
@@ -1022,6 +1056,8 @@
 	<string>escyrillic.glif</string>
 	<key>tecyrillic</key>
 	<string>tecyrillic.glif</string>
+	<key>tecyrillic.bgr</key>
+	<string>tecyrillic.bgr.glif</string>
 	<key>tecyrillic.mkd</key>
 	<string>tecyrillic.mkd.glif</string>
 	<key>kjecyrillic</key>
@@ -1044,26 +1080,40 @@
 	<string>shhacyrillic.glif</string>
 	<key>tsecyrillic</key>
 	<string>tsecyrillic.glif</string>
+	<key>tsecyrillic.bgr</key>
+	<string>tsecyrillic.bgr.glif</string>
 	<key>checyrillic</key>
 	<string>checyrillic.glif</string>
+	<key>checyrillic.bgr</key>
+	<string>checyrillic.bgr.glif</string>
 	<key>dzhecyrillic</key>
 	<string>dzhecyrillic.glif</string>
 	<key>shacyrillic</key>
 	<string>shacyrillic.glif</string>
+	<key>shacyrillic.bgr</key>
+	<string>shacyrillic.bgr.glif</string>
 	<key>shacyrillic.mkd</key>
 	<string>shacyrillic.mkd.glif</string>
 	<key>shchacyrillic</key>
 	<string>shchacyrillic.glif</string>
+	<key>shchacyrillic.bgr</key>
+	<string>shchacyrillic.bgr.glif</string>
 	<key>hardsigncyrillic</key>
 	<string>hardsigncyrillic.glif</string>
+	<key>hardsigncyrillic.bgr</key>
+	<string>hardsigncyrillic.bgr.glif</string>
 	<key>yericyrillic</key>
 	<string>yericyrillic.glif</string>
 	<key>softsigncyrillic</key>
 	<string>softsigncyrillic.glif</string>
+	<key>softsigncyrillic.bgr</key>
+	<string>softsigncyrillic.bgr.glif</string>
 	<key>ereversedcyrillic</key>
 	<string>ereversedcyrillic.glif</string>
 	<key>iucyrillic</key>
 	<string>iucyrillic.glif</string>
+	<key>iucyrillic.bgr</key>
+	<string>iucyrillic.bgr.glif</string>
 	<key>iacyrillic</key>
 	<string>iacyrillic.glif</string>
 	<key>numero</key>
