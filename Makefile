@@ -3,14 +3,23 @@ TARGETS=UnuarangaKuriero-Regular.ttf \
 	UnuarangaKuriero-Bold.ttf \
 	UnuarangaKuriero-BoldItalic.ttf
 
-.SUFFIXES: .ttf .ufo
+DOCUMENTS=README.md OFL.txt DESCRIPTION.en_us.html AUTHORS.txt
+
+PACKAGES=UnuarangaKuriero.zip
+
+.SUFFIXES: .ttf .ufo .zip
 
 .ufo.ttf:
 	fontmake $< -o ttf --output-path $@
 
-.PHONY: all clean
+UnuarangaKuriero.zip: ${TARGETS} ${DOCUMENTS}
+	mkdir $* && cp $^ $* && zip -9 -m -r $@ $*
+
+.PHONY: all dist clean
 
 all: ${TARGETS}
 
+dist: ${PACKAGES}
+
 clean:
-	-rm ${TARGETS}
+	-rm -rf ${TARGETS} ${PACKAGES} ${PACKAGES:%.zip=%}
