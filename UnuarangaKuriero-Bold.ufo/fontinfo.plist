@@ -183,9 +183,9 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>
-	<integer>3</integer>
+	<integer>0</integer>
 	<key>versionMinor</key>
-	<integer>18</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>924</integer>
 </dict>
